@@ -1,3 +1,5 @@
+<img width="712" height="242" alt="image" src="https://github.com/user-attachments/assets/8177b63a-caf3-463a-8d5e-8473fd5fb335" />
+
 # 🚀 AI-Powered Keyword Cannibalization Detection Workflow
 
 An advanced **n8n automation workflow** designed to detect and resolve **keyword cannibalization** issues using **Google Search Console** data and **GPT-4o**. Ideal for SEO professionals managing multiple clients, this system offers **real-time monitoring**, **AI-driven analysis**, and **actionable insights** — all automated. 🔍🤖📊
