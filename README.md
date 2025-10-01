@@ -1,4 +1,5 @@
-<img width="712" height="242" alt="image" src="https://github.com/user-attachments/assets/8177b63a-caf3-463a-8d5e-8473fd5fb335" />
+<img width="709" height="264" alt="image" src="https://github.com/user-attachments/assets/570002f0-5113-4183-a421-efb25d3f3e04" />
+
 
 # 🚀 AI-Powered Keyword Cannibalization Detection Workflow
 
